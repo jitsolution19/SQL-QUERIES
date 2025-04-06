@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { page } from './base.spec';
+import { page } from './base';
 
 const data={
   "expectedTitle": ["Business News Today: Stock and Share Market News, Economy and Finance News, Sensex, Nifty, Global Market, NSE, BSE Live IPO News"]

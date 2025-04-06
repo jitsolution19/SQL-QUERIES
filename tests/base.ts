@@ -2,8 +2,7 @@ import { test, expect } from '@playwright/test';
 
 let browser;
 let context;
-let page;
-
+let page
 
 test.beforeAll(async () => {
     const playwright = require('playwright');
