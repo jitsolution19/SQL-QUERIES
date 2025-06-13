@@ -1,5 +1,5 @@
 import { test as baseTest } from '@playwright/test';
-import { Amazon } from '../Pages/AmazonPage';
+import { Amazon } from '../pages/AmazonPage';
 type MyFixtures = {
   amazonPage: Amazon;
 };

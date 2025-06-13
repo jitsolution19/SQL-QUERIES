@@ -1,5 +1,5 @@
 import { test, Browser, Page, chromium, expect } from '@playwright/test';
-import { naukriData } from '../../data/naukriData';
+import { naukriData } from '../../data/naukridata';
 import path from 'path';
 let browser: Browser;
 let page: Page;
