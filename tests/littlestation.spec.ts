@@ -18,7 +18,7 @@ test('Little Station', async ({ page }) => {
     }
     );
     await test.step('Check for footer', async () => {
-        const footer = await page.getByText('�� 2023 Little Station. All rights reserved.');
+        const footer = await page.getByText('�� 2024 Little Station. All rights reserved.');
         console.log(await footer.innerText());
     });
 });
