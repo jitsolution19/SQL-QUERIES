@@ -1,4 +1,4 @@
-import { test,expect} from './fixtures';
+import{test,expect} from '../../fixtures/loginfixtures';
 
 test('Login using fixture', async ({ loginPage }) => {
   await loginPage.goto();
