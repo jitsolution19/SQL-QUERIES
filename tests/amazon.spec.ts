@@ -12,19 +12,3 @@ test('Get Link', async ({ page }) => {
     console.log(`${titleText} - ₹${priceText}`);
   }
 });
-let browser: Browser;
-let page: Page;
-test("Example of POM", async ({ page }) => {
-  const amazonObj = new Amazon(page);
-  await amazonObj.getCatLunchBoxInfo();
-})
-test.beforeAll(async () => {
-  browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext();
-  page = await context.newPage();
-});
-
-test.afterAll(async () => {
-  console.log('Closing manual browser');
-  await browser.close(); // ✅ manually close the browser
-})
