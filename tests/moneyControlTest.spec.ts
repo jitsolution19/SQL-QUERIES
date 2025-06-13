@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 import { page } from './base';
+import { writeFileSync } from 'fs';
 
 const data = {
   "expectedTitle": ["Business News Today: Stock and Share Market News, Economy and Finance News, Sensex, Nifty, Global Market, NSE, BSE Live IPO News"]
@@ -43,5 +44,9 @@ test('Generate json', async ({ page }) => {
       }
     }
     console.log(datatable);
+    const jsonData = JSON.stringify(datatable, null, 2); // Pretty-print with indentation
+    writeFileSync('tableData.json', jsonData, 'utf-8');
+
+    console.log("✅ JSON file created: tableData.json");
   }
 });
