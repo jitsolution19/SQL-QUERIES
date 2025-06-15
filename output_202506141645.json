@@ -1,0 +1,98 @@
+[
+  {
+    "ShareName": "Mahindra And Mahindra Ltd",
+    "Mkt cap": "3.61LCr",
+    "52-wk high": "3,270.95",
+    "52-wk low": "2,425.00",
+    "PriceTrend": [
+      {
+        "timestamp": "202506141200",
+        "price": "3,005.90"
+      },
+      {
+        "timestamp": "202506141201",
+        "price": "3,006.20"
+      },
+      {
+        "timestamp": "202506141202",
+        "price": "3,006.50"
+      },
+      {
+        "timestamp": "202506141203",
+        "price": "3,006.80"
+      },
+      {
+        "timestamp": "202506141204",
+        "price": "3,007.00"
+      },
+      {
+        "timestamp": "202506141205",
+        "price": "3,007.30"
+      },
+      {
+        "timestamp": "202506141749",
+        "price": "3009.30"
+      },
+      {
+        "timestamp": "202506141811",
+        "price": "3009.71"
+      }
+    ]
+  },
+  {
+    "ShareName": "Mahindra And Mahindra Ltd",
+    "Mkt cap": "3.61LCr",
+    "52-wk high": "3,270.95",
+    "52-wk low": "2,425.00",
+    "PriceTrend": [
+      {
+        "timestamp": "202506141200",
+        "price": "3,005.90"
+      },
+      {
+        "timestamp": "202506141201",
+        "price": "3,006.20"
+      },
+      {
+        "timestamp": "202506141202",
+        "price": "3,006.50"
+      },
+      {
+        "timestamp": "202506141203",
+        "price": "3,006.80"
+      },
+      {
+        "timestamp": "202506141204",
+        "price": "3,007.00"
+      },
+      {
+        "timestamp": "202506141205",
+        "price": "3,007.30"
+      },
+      {
+        "timestamp": "202506141749",
+        "price": "3009.30"
+      },
+      {
+        "timestamp": "202506141811",
+        "price": "3009.71"
+      }
+    ]
+  },
+  {
+    "ShareName": "Tata Consultancy Services Ltd",
+    "Mkt cap": "14.2LCr",
+    "52-wk high": "4,290.00",
+    "52-wk low": "3,210.55",
+    "PriceTrend": [
+      {
+        "timestamp": 202506151212,
+        "price": "3809.46"
+      },
+      {
+        "timestamp": "202506151627",
+        "price": "3006.16"
+      }
+    ]
+  }
+]
