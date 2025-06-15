@@ -1,97 +1,97 @@
 [
   {
-    "ShareName": "Mahindra And Mahindra Ltd",
-    "Mkt cap": "3.61LCr",
-    "52-wk high": "3,270.95",
-    "52-wk low": "2,425.00",
+    "ShareName": "Allied Digital Services Ltd",
+    "Mkt cap": "₹ 1,061 Cr.",
+    "52-wk high": "320",
+    "52-wk low": "146",
     "PriceTrend": [
       {
-        "timestamp": "202506141200",
-        "price": "3,005.90"
-      },
-      {
-        "timestamp": "202506141201",
-        "price": "3,006.20"
-      },
-      {
-        "timestamp": "202506141202",
-        "price": "3,006.50"
-      },
-      {
-        "timestamp": "202506141203",
-        "price": "3,006.80"
-      },
-      {
-        "timestamp": "202506141204",
-        "price": "3,007.00"
-      },
-      {
-        "timestamp": "202506141205",
-        "price": "3,007.30"
-      },
-      {
-        "timestamp": "202506141749",
-        "price": "3009.30"
-      },
-      {
-        "timestamp": "202506141811",
-        "price": "3009.71"
+        "timestamp": "202506160139",
+        "price": "₹ 188"
       }
     ]
   },
   {
-    "ShareName": "Mahindra And Mahindra Ltd",
-    "Mkt cap": "3.61LCr",
-    "52-wk high": "3,270.95",
-    "52-wk low": "2,425.00",
+    "ShareName": "Aeroflex Industries Ltd",
+    "Mkt cap": "₹ 2,212 Cr.",
+    "52-wk high": "272",
+    "52-wk low": "144",
     "PriceTrend": [
       {
-        "timestamp": "202506141200",
-        "price": "3,005.90"
-      },
-      {
-        "timestamp": "202506141201",
-        "price": "3,006.20"
-      },
-      {
-        "timestamp": "202506141202",
-        "price": "3,006.50"
-      },
-      {
-        "timestamp": "202506141203",
-        "price": "3,006.80"
-      },
-      {
-        "timestamp": "202506141204",
-        "price": "3,007.00"
-      },
-      {
-        "timestamp": "202506141205",
-        "price": "3,007.30"
-      },
-      {
-        "timestamp": "202506141749",
-        "price": "3009.30"
-      },
-      {
-        "timestamp": "202506141811",
-        "price": "3009.71"
+        "timestamp": "202506160139",
+        "price": "₹ 171"
       }
     ]
   },
   {
-    "ShareName": "Tata Consultancy Services Ltd",
-    "Mkt cap": "14.2LCr",
-    "52-wk high": "4,290.00",
-    "52-wk low": "3,210.55",
+    "ShareName": "Artemis Medicare Services Ltd",
+    "Mkt cap": "₹ 3,599 Cr.",
+    "52-wk high": "350",
+    "52-wk low": "172",
     "PriceTrend": [
       {
-        "timestamp": 202506151212,
-        "price": "3809.46"
-      },
+        "timestamp": "202506160139",
+        "price": "₹ 259"
+      }
+    ]
+  },
+  {
+    "ShareName": "Asahi India Glass Ltd",
+    "Mkt cap": "₹ 18,008 Cr.",
+    "52-wk high": "834",
+    "52-wk low": "577",
+    "PriceTrend": [
       {
-        "timestamp": "202506151627",
-        "price": "3006.16"
+        "timestamp": "202506160139",
+        "price": "₹ 741"
+      }
+    ]
+  },
+  {
+    "ShareName": "Aster DM Healthcare Ltd",
+    "Mkt cap": "₹ 29,517 Cr.",
+    "52-wk high": "610",
+    "52-wk low": "316",
+    "PriceTrend": [
+      {
+        "timestamp": "202506160139",
+        "price": "₹ 570"
+      }
+    ]
+  },
+  {
+    "ShareName": "Aurum Proptech Ltd",
+    "Mkt cap": "₹ 1,497 Cr.",
+    "52-wk high": "265",
+    "52-wk low": "143",
+    "PriceTrend": [
+      {
+        "timestamp": "202506160139",
+        "price": "₹ 212"
+      }
+    ]
+  },
+  {
+    "ShareName": "Avanti Feeds Ltd",
+    "Mkt cap": "₹ 10,286 Cr.",
+    "52-wk high": "965",
+    "52-wk low": "542",
+    "PriceTrend": [
+      {
+        "timestamp": "202506160139",
+        "price": "₹ 755"
+      }
+    ]
+  },
+  {
+    "ShareName": "Bharat Dynamics Ltd",
+    "Mkt cap": "₹ Cr.",
+    "52-wk high": "",
+    "52-wk low": "",
+    "PriceTrend": [
+      {
+        "timestamp": "202506160139",
+        "price": "₹"
       }
     ]
   }

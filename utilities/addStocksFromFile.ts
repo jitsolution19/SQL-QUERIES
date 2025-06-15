@@ -4,7 +4,7 @@ type StockInput = {
     mktCap: string;
     high52Wk: string;
     low52Wk: string;
-    basePrice: number;
+    basePrice: string;
   };
   
   export const createNewStock = (input: StockInput, timestamp: string) => {
@@ -16,7 +16,7 @@ type StockInput = {
       PriceTrend: [
         {
           timestamp: timestamp,
-          price: (input.basePrice + Math.random() * 10).toFixed(2)
+          price: input.basePrice
         }
       ]
     };
@@ -25,21 +25,17 @@ type StockInput = {
   
 export const fetchStockFromWebsite = async (page:Page,url: string) => {
   await page.goto(url);
-  
-    // Example selectors — you MUST customize based on the site structure
-    const ShareName = await page.locator('.stock-name-selector').textContent();
-    const mktCap = await page.locator('.market-cap-selector').textContent();
-    const high52Wk = await page.locator('.high52-selector').textContent();
-    const low52Wk = await page.locator('.low52-selector').textContent();
-    const priceText = await page.locator('.price-selector').textContent();
-  
-
+    const ShareName = await page.locator('h1.h2.shrink-text').innerText();
+    const mktCap = await page.locator('#top-ratios li:nth-child(1) span.nowrap').innerText();
+    const high52Wk = await page.locator('#top-ratios li:nth-child(3) span.nowrap span:nth-child(1)').innerText();
+    const low52Wk = await page.locator('#top-ratios li:nth-child(3) span.nowrap span:nth-child(2)').innerText();
+    const priceText = await page.locator('#top-ratios li:nth-child(2) span.nowrap').innerText();
   
     return {
       ShareName: ShareName?.trim() || '',
       mktCap: mktCap?.trim() || '',
       high52Wk: high52Wk?.trim() || '',
       low52Wk: low52Wk?.trim() || '',
-      basePrice: parseFloat(priceText?.replace(',', '') || '0')
+      basePrice: priceText?.trim()||''
     };
   };

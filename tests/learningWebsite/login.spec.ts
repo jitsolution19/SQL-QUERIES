@@ -2,7 +2,7 @@ import { test, expect } from '../../fixtures/loginfixtures';
 import { readFileSync, writeFileSync } from 'fs';
 import{getFormattedDate} from '../../utilities/formattedDate';
 import { UpdatingPriceTrend,addingNewStock,updateSpecificSharePrice } from '../../utilities/JsonFileHandling';
-import{fetchStockFromWebsite} from '../../utilities/addStocksFromFile';
+import{fetchStockFromWebsite,createNewStock} from '../../utilities/addStocksFromFile';
 
 test('Login using fixture', async ({ loginPage }) => {
   await loginPage.goto();
@@ -69,4 +69,30 @@ test('updating Price Trend of Specific Share in Json File', async ({ loginPage }
 test('Adding New Stock from Website into Json file', async ({ loginPage }) => {
   const ApplicationUrl = 'https://www.moneycontrol.com/';
   const stockData = await fetchStockFromWebsite(loginPage.page,ApplicationUrl);
+  const timestamp = getFormattedDate();
+  const newStock = createNewStock(stockData, timestamp);
+  addingNewStock(newStock);
+});
+
+
+
+test('Adding Artimis Stock from Website into Json file', async ({ loginPage }) => {
+  const ApplicationUrl = 'https://www.screener.in/company/ARTEMISMED/consolidated/';
+  const stockData = await fetchStockFromWebsite(loginPage.page,ApplicationUrl);
+  const timestamp = getFormattedDate();
+  const newStock = createNewStock(stockData, timestamp);
+  addingNewStock(newStock);
+});
+
+test('Adding ASAHIINDIA Stock from Website into Json file', async ({ loginPage }) => {
+  const ApplicationUrl = 'https://www.screener.in/company/ASAHIINDIA/consolidated/';
+  const stockData = await fetchStockFromWebsite(loginPage.page,ApplicationUrl);
+  const timestamp = getFormattedDate();
+  const newStock = createNewStock(stockData, timestamp);
+  addingNewStock(newStock);
+});
+
+
+test('Capture Data', async ({ loginPage }) => {
+  await loginPage.navigatetoApplication();
 });
