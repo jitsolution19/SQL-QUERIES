@@ -25,6 +25,7 @@ type StockInput = {
   
 export const fetchStockFromWebsite = async (page:Page,url: string) => {
   await page.goto(url);
+  await page.waitForLoadState();
     const ShareName = await page.locator('h1.h2.shrink-text').innerText();
     const mktCap = await page.locator('#top-ratios li:nth-child(1) span.nowrap').innerText();
     const high52Wk = await page.locator('#top-ratios li:nth-child(3) span.nowrap span:nth-child(1)').innerText();

@@ -31,3 +31,15 @@ test('Adding ASAHIINDIA Stock from Website into Json file', async ({ loginPage }
   addingNewStock(newStock);
  }
 });
+
+test('Adding AVANTIFEED, BDL Stock from Website into Json file', async ({ loginPage }) => {
+  let stockNames:String[]=['AVANTIFEED','BDL'];
+  for(const stock of stockNames ){
+   const ApplicationUrl = 'https://www.screener.in/company/'+stock+'/consolidated/';
+   console.log('Capturing Stock ',stock);
+   const stockData = await fetchStockFromWebsite(loginPage.page,ApplicationUrl);
+   const timestamp = getFormattedDate();
+   const newStock = createNewStock(stockData, timestamp);
+   addingNewStock(newStock);
+  }
+ });

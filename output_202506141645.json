@@ -1,85 +1,85 @@
 [
   {
     "ShareName": "Allied Digital Services Ltd",
-    "Mkt cap": "₹ 1,061 Cr.",
+    "Mkt cap": "₹ 1,038 Cr.",
     "52-wk high": "320",
     "52-wk low": "146",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
-        "price": "₹ 188"
+        "timestamp": "202506172345",
+        "price": "₹ 184"
       }
     ]
   },
   {
     "ShareName": "Aeroflex Industries Ltd",
-    "Mkt cap": "₹ 2,212 Cr.",
+    "Mkt cap": "₹ 2,167 Cr.",
     "52-wk high": "272",
     "52-wk low": "144",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
-        "price": "₹ 171"
+        "timestamp": "202506172345",
+        "price": "₹ 168"
       }
     ]
   },
   {
     "ShareName": "Artemis Medicare Services Ltd",
-    "Mkt cap": "₹ 3,599 Cr.",
+    "Mkt cap": "₹ 3,484 Cr.",
     "52-wk high": "350",
     "52-wk low": "172",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
-        "price": "₹ 259"
+        "timestamp": "202506172345",
+        "price": "₹ 251"
       }
     ]
   },
   {
     "ShareName": "Asahi India Glass Ltd",
-    "Mkt cap": "₹ 18,008 Cr.",
+    "Mkt cap": "₹ 18,215 Cr.",
     "52-wk high": "834",
     "52-wk low": "577",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
-        "price": "₹ 741"
+        "timestamp": "202506172345",
+        "price": "₹ 750"
       }
     ]
   },
   {
     "ShareName": "Aster DM Healthcare Ltd",
-    "Mkt cap": "₹ 29,517 Cr.",
+    "Mkt cap": "₹ 29,396 Cr.",
     "52-wk high": "610",
     "52-wk low": "316",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
-        "price": "₹ 570"
+        "timestamp": "202506172345",
+        "price": "₹ 568"
       }
     ]
   },
   {
     "ShareName": "Aurum Proptech Ltd",
-    "Mkt cap": "₹ 1,497 Cr.",
+    "Mkt cap": "₹ 1,472 Cr.",
     "52-wk high": "265",
     "52-wk low": "143",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
-        "price": "₹ 212"
+        "timestamp": "202506172345",
+        "price": "₹ 209"
       }
     ]
   },
   {
     "ShareName": "Avanti Feeds Ltd",
-    "Mkt cap": "₹ 10,286 Cr.",
+    "Mkt cap": "₹ 10,247 Cr.",
     "52-wk high": "965",
     "52-wk low": "542",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
-        "price": "₹ 755"
+        "timestamp": "202506172347",
+        "price": "₹ 752"
       }
     ]
   },
@@ -90,8 +90,296 @@
     "52-wk low": "",
     "PriceTrend": [
       {
-        "timestamp": "202506160139",
+        "timestamp": "202506172347",
         "price": "₹"
+      }
+    ]
+  },
+  {
+    "ShareName": "Mrs Bectors Food Specialities Ltd",
+    "Mkt cap": "₹ 8,536 Cr.",
+    "52-wk high": "2,200",
+    "52-wk low": "1,201",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172351",
+        "price": "₹ 1,390"
+      }
+    ]
+  },
+  {
+    "ShareName": "Bharat Forge Ltd",
+    "Mkt cap": "₹ 62,201 Cr.",
+    "52-wk high": "1,826",
+    "52-wk low": "919",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172351",
+        "price": "₹ 1,300"
+      }
+    ]
+  },
+  {
+    "ShareName": "Chambal Fertilisers & Chemicals Ltd",
+    "Mkt cap": "₹ 22,266 Cr.",
+    "52-wk high": "742",
+    "52-wk low": "422",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172351",
+        "price": "₹ 555"
+      }
+    ]
+  },
+  {
+    "ShareName": "Chemcon Speciality Chemicals Ltd",
+    "Mkt cap": "₹ Cr.",
+    "52-wk high": "",
+    "52-wk low": "",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172351",
+        "price": "₹"
+      }
+    ]
+  },
+  {
+    "ShareName": "Cochin Shipyard Ltd",
+    "Mkt cap": "₹ 57,674 Cr.",
+    "52-wk high": "2,979",
+    "52-wk low": "1,180",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172351",
+        "price": "₹ 2,192"
+      }
+    ]
+  },
+  {
+    "ShareName": "Deepak Fertilizers & Petrochemicals Corp Ltd",
+    "Mkt cap": "₹ 19,710 Cr.",
+    "52-wk high": "1,637",
+    "52-wk low": "594",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172355",
+        "price": "₹ 1,562"
+      }
+    ]
+  },
+  {
+    "ShareName": "Dynamic Cables Ltd",
+    "Mkt cap": "₹ Cr.",
+    "52-wk high": "",
+    "52-wk low": "",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172355",
+        "price": "₹"
+      }
+    ]
+  },
+  {
+    "ShareName": "Epigral Ltd",
+    "Mkt cap": "₹ 7,727 Cr.",
+    "52-wk high": "2,408",
+    "52-wk low": "1,302",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172355",
+        "price": "₹ 1,794"
+      }
+    ]
+  },
+  {
+    "ShareName": "Equitas Small Finance Bank Ltd",
+    "Mkt cap": "₹ Cr.",
+    "52-wk high": "",
+    "52-wk low": "",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172355",
+        "price": "₹"
+      }
+    ]
+  },
+  {
+    "ShareName": "Eternal Ltd",
+    "Mkt cap": "₹ 2,38,605 Cr.",
+    "52-wk high": "305",
+    "52-wk low": "185",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172355",
+        "price": "₹ 247"
+      }
+    ]
+  },
+  {
+    "ShareName": "Firstsource Solutions Ltd",
+    "Mkt cap": "₹ 27,238 Cr.",
+    "52-wk high": "423",
+    "52-wk low": "197",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172359",
+        "price": "₹ 386"
+      }
+    ]
+  },
+  {
+    "ShareName": "GFL Ltd",
+    "Mkt cap": "₹ 705 Cr.",
+    "52-wk high": "126",
+    "52-wk low": "47.2",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172359",
+        "price": "₹ 64.3"
+      }
+    ]
+  },
+  {
+    "ShareName": "GMR Airports Ltd",
+    "Mkt cap": "₹ 87,355 Cr.",
+    "52-wk high": "104",
+    "52-wk low": "67.8",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172359",
+        "price": "₹ 82.8"
+      }
+    ]
+  },
+  {
+    "ShareName": "Zerodha Gold ETF",
+    "Mkt cap": "₹ Cr.",
+    "52-wk high": "",
+    "52-wk low": "",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172359",
+        "price": "₹"
+      }
+    ]
+  },
+  {
+    "ShareName": "Harsha Engineers International Ltd",
+    "Mkt cap": "₹ 3,521 Cr.",
+    "52-wk high": "614",
+    "52-wk low": "330",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172359",
+        "price": "₹ 386"
+      }
+    ]
+  },
+  {
+    "ShareName": "HCL Technologies Ltd",
+    "Mkt cap": "₹ 4,69,342 Cr.",
+    "52-wk high": "2,012",
+    "52-wk low": "1,303",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172359",
+        "price": "₹ 1,730"
+      }
+    ]
+  },
+  {
+    "ShareName": "Vodafone Idea Ltd",
+    "Mkt cap": "₹ 71,400 Cr.",
+    "52-wk high": "19.2",
+    "52-wk low": "6.46",
+    "PriceTrend": [
+      {
+        "timestamp": "202506172359",
+        "price": "₹ 6.60"
+      }
+    ]
+  },
+  {
+    "ShareName": "Indraprastha Gas Ltd",
+    "Mkt cap": "₹ 29,258 Cr.",
+    "52-wk high": "285",
+    "52-wk low": "153",
+    "PriceTrend": [
+      {
+        "timestamp": "202506180018",
+        "price": "₹ 209"
+      }
+    ]
+  },
+  {
+    "ShareName": "Indraprastha Gas Ltd",
+    "Mkt cap": "₹ 29,258 Cr.",
+    "52-wk high": "285",
+    "52-wk low": "153",
+    "PriceTrend": [
+      {
+        "timestamp": "202506180019",
+        "price": "₹ 209"
+      }
+    ]
+  },
+  {
+    "ShareName": "Intellect Design Arena Ltd",
+    "Mkt cap": "₹ 17,073 Cr.",
+    "52-wk high": "1,255",
+    "52-wk low": "555",
+    "PriceTrend": [
+      {
+        "timestamp": "202506180019",
+        "price": "₹ 1,228"
+      }
+    ]
+  },
+  {
+    "ShareName": "Indian Railway Catering & Tourism Corporation Ltd",
+    "Mkt cap": "₹ 61,464 Cr.",
+    "52-wk high": "1,059",
+    "52-wk low": "656",
+    "PriceTrend": [
+      {
+        "timestamp": "202506180019",
+        "price": "₹ 769"
+      }
+    ]
+  },
+  {
+    "ShareName": "Indian Railway Finance Corporation Ltd",
+    "Mkt cap": "₹ Cr.",
+    "52-wk high": "",
+    "52-wk low": "",
+    "PriceTrend": [
+      {
+        "timestamp": "202506180019",
+        "price": "₹"
+      }
+    ]
+  },
+  {
+    "ShareName": "Le Travenues Technology Ltd",
+    "Mkt cap": "₹ 7,218 Cr.",
+    "52-wk high": "198",
+    "52-wk low": "117",
+    "PriceTrend": [
+      {
+        "timestamp": "202506180019",
+        "price": "₹ 185"
+      }
+    ]
+  },
+  {
+    "ShareName": "Jio Financial Services Ltd",
+    "Mkt cap": "₹ 1,84,087 Cr.",
+    "52-wk high": "368",
+    "52-wk low": "199",
+    "PriceTrend": [
+      {
+        "timestamp": "202506180019",
+        "price": "₹ 290"
       }
     ]
   }
