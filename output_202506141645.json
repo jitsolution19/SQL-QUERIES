@@ -382,5 +382,77 @@
         "price": "₹ 290"
       }
     ]
+  },
+  {
+    "ShareName": "Indraprastha Gas Ltd",
+    "Mkt cap": "₹ 30,841 Cr.",
+    "52-wk high": "285",
+    "52-wk low": "153",
+    "PriceTrend": [
+      {
+        "timestamp": "202507152338",
+        "price": "₹ 220"
+      }
+    ]
+  },
+  {
+    "ShareName": "Intellect Design Arena Ltd",
+    "Mkt cap": "₹ 16,270 Cr.",
+    "52-wk high": "1,255",
+    "52-wk low": "555",
+    "PriceTrend": [
+      {
+        "timestamp": "202507152338",
+        "price": "₹ 1,170"
+      }
+    ]
+  },
+  {
+    "ShareName": "Indian Railway Catering & Tourism Corporation Ltd",
+    "Mkt cap": "₹ 61,916 Cr.",
+    "52-wk high": "1,045",
+    "52-wk low": "656",
+    "PriceTrend": [
+      {
+        "timestamp": "202507152338",
+        "price": "₹ 774"
+      }
+    ]
+  },
+  {
+    "ShareName": "Indian Railway Finance Corporation Ltd",
+    "Mkt cap": "₹ Cr.",
+    "52-wk high": "",
+    "52-wk low": "",
+    "PriceTrend": [
+      {
+        "timestamp": "202507152338",
+        "price": "₹"
+      }
+    ]
+  },
+  {
+    "ShareName": "Le Travenues Technology Ltd",
+    "Mkt cap": "₹ 6,896 Cr.",
+    "52-wk high": "196",
+    "52-wk low": "117",
+    "PriceTrend": [
+      {
+        "timestamp": "202507152338",
+        "price": "₹ 176"
+      }
+    ]
+  },
+  {
+    "ShareName": "Jio Financial Services Ltd",
+    "Mkt cap": "₹ 2,04,099 Cr.",
+    "52-wk high": "363",
+    "52-wk low": "199",
+    "PriceTrend": [
+      {
+        "timestamp": "202507152338",
+        "price": "₹ 321"
+      }
+    ]
   }
 ]

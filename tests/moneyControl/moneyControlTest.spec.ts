@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { page } from './base';
+import {page} from './base'
 import { writeFileSync } from 'fs';
 
 const data = {
