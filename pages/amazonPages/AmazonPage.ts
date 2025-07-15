@@ -1,9 +1,10 @@
 // AmazonHomePage.ts
 import { Page } from '@playwright/test';
-export class Amazon {
-   constructor(public page: Page) {}
 
-    async getCatLunchBoxInfo(appurl:string) {
+export class Amazon {
+    constructor(public page: Page) { }
+
+    async getCatLunchBoxInfo(appurl: string) {
         await this.page.goto(appurl);
         await this.page.waitForSelector('.s-result-item');
         const products = await this.page.locator('.s-result-item[data-asin]').elementHandles();

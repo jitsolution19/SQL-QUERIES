@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { lsData } from '../data/littleStation';
+import { lsData } from '../../data/littleStation';
 
 test('Little Station', async ({ page }) => {
 

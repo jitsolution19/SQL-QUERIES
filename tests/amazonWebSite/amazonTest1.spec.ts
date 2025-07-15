@@ -1,5 +1,5 @@
 import { test, chromium, Browser, Page, expect } from '@playwright/test';
-import { Amazon } from '../Pages/AmazonPage';
+import { Amazon } from '../../Pages/AmazonPage';
 test('Get Link', async ({ page }) => {
   await page.goto('https://www.amazon.in/s?k=cat+lunch+box&ref=nb_sb_noss');
   await page.waitForSelector('.s-result-item');
